@@ -1,0 +1,7 @@
+#Archiwum wersji
+
+Wersja 0.1:
+- możliwość podania kursów trzech walut obcych (EUR, USD, CHF)
+- podania kwoty złotych polskich, które mają zostać kupione/sprzedane
+- wybór rodzaju transakcji
+- przeprowadzenie transakcji kupna lub sprzedaży
