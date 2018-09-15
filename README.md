@@ -4,7 +4,12 @@ Program obliczający kwoty uzyskane przy transakcjach kupna sprzedaży walut obc
 
 Program pisany w języku C++
 
-Obecnie zaprogramowane działania (wersja 0.1):
+Wersja 0.2
+Zmieniono:
+- dokonano refaktoryzacji kodu: zastąpiono dwie funkcje 'int kupno();' i 'sprzedaz();' jedną bardziej czytelną funkcją 'wymiana();'
+- w niektórych miejscach poprawiono formatowanie zapisanego kodu
+
+Obecnie zaprogramowane działania:
 - możliwość podania kursów trzech walut obcych (EUR, USD, CHF)
 - podania kwoty złotych polskich, które mają zostać kupione/sprzedane
 - wybór rodzaju transakcji
